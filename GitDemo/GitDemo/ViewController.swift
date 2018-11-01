@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         print("modification")
         print("demi cahanges")
         print ("im mac 2..... im going change project")
+        print ("im git server..... im going change project")
+        
         // Do any additional setup after loading the view, typically from a nib.
         demofunc(name: "bharat");
     }
